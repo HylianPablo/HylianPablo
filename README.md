@@ -10,7 +10,7 @@ I have experience with:
   
 * Building iOS Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift) ![Objective-C](https://img.shields.io/badge/-Objective%20C-2E333D?style=flat&logo=apple)
 * Building Apps with ![Java](https://img.shields.io/badge/-Java-2E333D?style=flat&logo=java) or ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
-* Building Web Apps with ![React](https://img.shields.io/badge/-React-2E333D?style=flat&logo=react) ![Express](https://img.shields.io/badge/-Express-2E333D?style=flat&logo=express) ![MySQL](https://img.shields.io/badge/-MySQL-2E333D?style=flat&logo=mysql)
+* Building Web Apps with ![React](https://img.shields.io/badge/-React-2E333D?style=flat&logo=react) ![Express](https://img.shields.io/badge/-Express-2E333D?style=flat&logo=express)
 </p>
 
 I am ready to explore anything new!
