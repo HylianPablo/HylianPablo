@@ -1,4 +1,4 @@
-<img src="https://smartalecreviews.files.wordpress.com/2014/02/serial-experiments-lain-750.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/ec/63/db/ec63dbbfcb286cac11db402b3e326383.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   <h3><b>Hi there! Welcome to my Github 🐙</b></h3>
