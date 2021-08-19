@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/100346/screenshots/4396534/kapture_2018-03-27_at_12.48.03.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.dribbble.com/users/100346/screenshots/4396534/kapture_2018-03-27_at_12.48.03.gif" min-width="400px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   <h3><b>Hi there! Welcome to my Github 🐙</b></h3>
