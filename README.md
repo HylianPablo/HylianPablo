@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <h3><b>Hi there! Welcome to my Github 🐙</b></h3>
-  Feel free to explore!.
+  Feel free to explore!
 </p>
 
 <p align="left">
